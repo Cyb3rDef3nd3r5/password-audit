@@ -25,5 +25,5 @@ This project demonstrates:
 
 ```bash
 git clone https://github.com/Cyb3rDef3nd3r5/password-audit.git
-cd soc-password-audit
+cd password-audit
 pip install -r requirements.txt
